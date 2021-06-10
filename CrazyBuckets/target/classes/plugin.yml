@@ -1,0 +1,7 @@
+name: CrazyBuckets
+version: 1.0-SNAPSHOT
+main: com.jake.crazybuckets.CrazyBuckets
+api-version: 1.16
+authors: [ thatispog ]
+commands:
+  crazybuckets:
